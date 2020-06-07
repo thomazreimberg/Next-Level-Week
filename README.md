@@ -1,4 +1,6 @@
-![icon_ecoleta](https://user-images.githubusercontent.com/62728109/83677850-2cf1e200-a5b3-11ea-8d04-f91369115c62.png)<h1 align="center"> 🚀 Next Level Week </h1>
+![icon_ecoleta](https://user-images.githubusercontent.com/62728109/83677850-2cf1e200-a5b3-11ea-8d04-f91369115c62.png)
+</br>
+<h1 align="center"> 🚀 Next Level Week </h1>
 <p align="center" style="font-size: 13px">|| "Uma semana para acelerar sua evolução como dev e avançar para o PRÓXIMO NIVEL." ||</p>
 
 O **Ecoleta** é um projeto (aplicação web) construído no **Starter**, parte da semana **Next Level Week** ![icon_nlw](https://user-images.githubusercontent.com/62728109/83677578-c076e300-a5b2-11ea-825c-bc31c88da1d2.png).
@@ -8,7 +10,7 @@ A aplicação basea-se em um marketplace de coleta de resíduos, onde pessoas f�
 🧠 Bibliotecas e tecnologias utilizadas:
 - <a href="https://www.w3schools.com/html/default.asp" style="text-decoration: none; font-size: 16px; color: #fff;" >HTML5; </a>
 - <a href="https://www.w3schools.com/w3css/" style="text-decoration: none; font-size: 16px; color: #fff;" > CSS; </a>
-- JavaScript;
+- <a href="https://www.w3schools.com/js/" style="text-decoration: none; fonti-size: 16px; color: #fff"> JavaScript </a>
 - <a href="https://www.typescriptlang.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >TypeScript; </a>
 - <a href="https://nodejs.org/en/" style="text-decoration: none; font-size: 16px; color: #fff;" >NodeJS </a>
 - <a href="https://pt-br.reactjs.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >React</a>
@@ -115,8 +117,8 @@ As aulas foram ministradas pelo [Diego Fernandes](https://github.com/diego3g) da
 
 <hr>
 
-<h2> Referências e agradecimentos
+<h4> Referências e agradecimentos </h4>
 
- <a href="https://github.com/carlosantoss/nlw" style="text-decoration: none; color:FFF>Carlos Santos</a>
+<a href="https://github.com/carlosantoss/nlw" style="text-decoration: none; color:#FFF">Carlos Santos</a>
 
- <a href="https://github.com/ArmandoVinicius" style="text-decoration: none; color: #FFF">Armando Vinicius</a>
+<a href="https://github.com/ArmandoVinicius" style="text-decoration: none; color: #FFF">Armando Vinicius</a>
