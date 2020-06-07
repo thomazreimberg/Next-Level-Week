@@ -121,4 +121,5 @@ As aulas foram ministradas pelo [Diego Fernandes](https://github.com/diego3g) da
 <h4> Referências e agradecimentos </h4>
 
 <a href="https://github.com/carlosantoss/nlw" style="text-decoration: none; color:#FFF">Carlos Santos</a>
+
 <a href="https://github.com/ArmandoVinicius" style="text-decoration: none; color: #FFF">Armando Vinicius</a>
