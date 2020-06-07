@@ -29,6 +29,11 @@ Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/
 Foi trabalhado os conceitos e ambiente de desenvolvimento:
 
 ![1-dia](https://user-images.githubusercontent.com/57465943/83958261-17481b00-a846-11ea-92a3-213a9fad3f3a.PNG)
+![Arquitetura Expo](https://user-images.githubusercontent.com/57465943/83958311-8e7daf00-a846-11ea-80c1-894d4242f593.PNG)
+![Diagrama API RESTful](https://user-images.githubusercontent.com/57465943/83958317-90e00900-a846-11ea-8c74-9177db5d8929.PNG)
+![Diagrama comandos Node-Terminal](https://user-images.githubusercontent.com/57465943/83958318-93daf980-a846-11ea-8b52-a39cc9e59cb3.PNG)
+![Entendo o Reac Native](https://user-images.githubusercontent.com/57465943/83958321-9a697100-a846-11ea-80f8-e45d1ec8fd6e.PNG)
+![hello-word](https://user-images.githubusercontent.com/57465943/83958324-a1907f00-a846-11ea-8962-93d0e836bbdd.PNG)
 
 ## **2ª Aula**
 Ainda trabalhando com HTML, CSS e inserindo JS, aprendemos a buscar cidades e estados (dados) em um database trazendo-os para a aplicação;
