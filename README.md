@@ -26,8 +26,9 @@ Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/
 <p style="font-size: 15px">Layout do projeto no Figma: <a href="https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1" style="text-decoration: none; color: #FFF">Ecoleta - Trilha booster do NLW</a></p>
 
 ## **1ª Aula**
-Foi trabalhado os primeiros conceitos de HTML e CSS, muito utilizado no front-end;
-![first_and_second_steps](https://user-images.githubusercontent.com/62728109/83678452-2748cc00-a5b4-11ea-8c3b-7b11d47aaa07.jpg)
+Foi trabalhado os conceitos e ambiente de desenvolvimento:
+
+<img src="C:\Users\casa\Desktop\dia-1" alt="dia-1"/>
 
 ## **2ª Aula**
 Ainda trabalhando com HTML, CSS e inserindo JS, aprendemos a buscar cidades e estados (dados) em um database trazendo-os para a aplicação;
@@ -107,8 +108,6 @@ npm start ou yarn start
 ```
 <br>
 <hr>
-
-<p style="font-size: 13px">Eu gostaria de agradecer a <a href="https://rocketseat.com.br/" style="font-size: 16px; color: tomato">🚀 ROCKETSEAT</a> e toda sua comunidade, por se esforçarem para distribuir conhecimento de forma que uma pessoa em qualquer nível consegue aprender </p>
 
 ![quem_ministrou](https://user-images.githubusercontent.com/62728109/83679095-35e3b300-a5b5-11ea-940f-dc15b1e3e9bc.png)
  **Quem ministrou as aulas?**
