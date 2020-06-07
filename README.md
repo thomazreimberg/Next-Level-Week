@@ -28,7 +28,7 @@ Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/
 ## **1ª Aula**
 Foi trabalhado os conceitos e ambiente de desenvolvimento:
 
-<img src="C:\Users\casa\Desktop\dia-1" alt="dia-1"/>
+![1-dia](https://user-images.githubusercontent.com/57465943/83958261-17481b00-a846-11ea-92a3-213a9fad3f3a.PNG)
 
 ## **2ª Aula**
 Ainda trabalhando com HTML, CSS e inserindo JS, aprendemos a buscar cidades e estados (dados) em um database trazendo-os para a aplicação;
