@@ -50,11 +50,8 @@ Na aula 4, foi dia de começar a entender na prática como funciona o back-end. 
 ## **5ª Aula**
 E para finalizar o projeto, importamos a dependência do SQLite para nossa aplicação e fizemos toda a configuração do db (banco de dados).
 
-
 <hr>
 
-<br>
-<hr>
 <h1 style="font-size: 24px">Passo a passo para executar:</h1>
 <h2>Pré-requisitos:</h2>
 
