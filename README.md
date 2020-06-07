@@ -27,29 +27,29 @@ Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/
 
 ## **1ª Aula**
 Foi trabalhado os conceitos e ambiente de desenvolvimento:
-
 ![1-dia](https://user-images.githubusercontent.com/57465943/83958261-17481b00-a846-11ea-92a3-213a9fad3f3a.PNG)
 ![Arquitetura Expo](https://user-images.githubusercontent.com/57465943/83958311-8e7daf00-a846-11ea-80c1-894d4242f593.PNG)
 ![Diagrama API RESTful](https://user-images.githubusercontent.com/57465943/83958317-90e00900-a846-11ea-8c74-9177db5d8929.PNG)
 ![Diagrama comandos Node-Terminal](https://user-images.githubusercontent.com/57465943/83958318-93daf980-a846-11ea-8b52-a39cc9e59cb3.PNG)
-![Entendo o Reac Native](https://user-images.githubusercontent.com/57465943/83958321-9a697100-a846-11ea-80f8-e45d1ec8fd6e.PNG)
 ![hello-word](https://user-images.githubusercontent.com/57465943/83958324-a1907f00-a846-11ea-8962-93d0e836bbdd.PNG)
 
 ## **2ª Aula**
-Ainda trabalhando com HTML, CSS e inserindo JS, aprendemos a buscar cidades e estados (dados) em um database trazendo-os para a aplicação;
-![aula2](https://user-images.githubusercontent.com/62728109/83678917-e43b2880-a5b4-11ea-84aa-b57b5bc7a2d7.png)
+Começamos a programar as rotas do backend, para exercer suas funções no banco SQLite:
+![2-dia](https://user-images.githubusercontent.com/57465943/83958407-b15c9300-a847-11ea-977a-766e54305bed.PNG)
+![backend](https://user-images.githubusercontent.com/57465943/83958408-b3beed00-a847-11ea-9df4-db9a4c7aabe2.PNG)
 
 ## **3ª Aula**
-Continuou-se trabalhando os conceitos de HTML, CSS e JS de uma maneira mais aprofundada e encerrou-se a aula em 3 etapas concluidas;
-![aula3](https://user-images.githubusercontent.com/62728109/83678626-6d9e2b00-a5b4-11ea-8ad4-03c955dcad5a.jpg)
+Começamos a programar o frontend, além de estudar alguns conceitos de React:
+![3-dia](https://user-images.githubusercontent.com/57465943/83958450-3647ac80-a848-11ea-9f8c-cac66ce07398.PNG)
+![home](https://user-images.githubusercontent.com/57465943/83958460-5f683d00-a848-11ea-99d5-af97dabbae86.PNG)
 
 ## **4ª Aula**
 Na aula 4, foi dia de começar a entender na prática como funciona o back-end. Conhecemos o node.js e criamos nosso servidor;
-![aula4](https://user-images.githubusercontent.com/62728109/83796845-0a75cc80-a678-11ea-8137-0c0ac548ac99.jpg)
+
 
 ## **5ª Aula**
 E para finalizar o projeto, importamos a dependência do SQLite para nossa aplicação e fizemos toda a configuração do db (banco de dados).
-![aula5](https://user-images.githubusercontent.com/62728109/83922344-8ba39100-a756-11ea-9abd-2aa39816d895.png)
+
 
 <hr>
 
